@@ -14,5 +14,5 @@
  ### 💻 Graduate at <a href="https://www.ironhack.com/en">Ironhack'22</a> **Data Science & Java Backend Developer BootCamps
 
     ✅ Passionate in Data Analyst
-    ✅ Experience in Data Analyst as a Continuous Improvement and Quality Manager during 3 years in <a href="https://www.kivnon.com/es/"> Kivnon </a> 
+    ✅ Experience as a Continuous Improvement and Quality Manager for 3 years in Kivnon
     ✅ I would like to help companies make the best strategic and operational decisions through data analysis and predictive models
