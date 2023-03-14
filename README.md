@@ -9,9 +9,12 @@
 
  ### 🔬 Currently, I'm studying in <a href="https://www.barcelonactiva.cat/es/itacademy"> IT Academy'23 </a> **Data Science BootCamp**
 
- ### 👩‍💻 Graduate at <a href="https://www.sinensia.com/es">Sinensia IT Solutions'22</a> **Power BI Business Intelligence**
+ ### 👩‍💻 Graduate at <a href="https://www.sinensia.com/es">Sinensia IT Solutions'22</a> **Power BI Business Intelligence'22**
+ 
+ ### 👩‍💻 Graduate at <a href="https://serveiocupacio.gencat.cat/es/soc/com-ens-organitzem/centres-propis-formacio-cifo-cfpa/centres-dinnovacio-i-formacio-ocupacional-cifo/cifo-barcelona-la-violeta/">CIFO La Violeta</a> **Algoritmos en R, Machine Learning y Redes Neuronales'22**
+ 
 
- ### 💻 Graduate at <a href="https://www.ironhack.com/en">Ironhack'22</a> **Data Science & Java Backend Developer BootCamps**
+ ### 💻 Graduate at <a href="https://www.ironhack.com/en">Ironhack'22</a> **Data Science & Java Backend Developer BootCamps'22**
 
     ✅ Passionate in Data Analyst 📈
     ✅ Experience as a Continuous Improvement and Quality Manager for 3 years in Kivnon ⚖️
